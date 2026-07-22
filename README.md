@@ -1,52 +1,89 @@
-# Java Fundamentals 🚀
+# Java Fundamentals ☕
 
-This repository contains my Java programming practice and assignments while learning Java fundamentals.
+This repository contains my Java programming practice, assignments, and mini projects completed during my Java learning journey.
 
-## 📌 Week 1 – Java Fundamentals
+## 📚 Week 1 – Java Fundamentals
 
-### Topics Covered:
+### Topics Covered
 - Introduction to Java
 - Java Syntax
-- Data Types and Variables
+- Variables and Data Types
 - Operators
 - Conditional Statements
 - Loops
-- Scanner Input
-- Basic Problem Solving
+- Arrays
+- String Handling
+- User Input using Scanner
 
-## 📂 Programs
+### Programs
+- Basic Calculator
+- Grade Evaluation Program
+- Bank Management Console App
 
-### 1. Basic Calculator Program
-- Performs:
-  - Addition
-  - Subtraction
-  - Multiplication
-  - Division
-- Uses user input with Scanner.
+---
 
-### 2. Grade Evaluation Program
-- Takes student marks as input.
-- Displays grade based on marks:
-  - A Grade
-  - B Grade
-  - C Grade
-  - Fail
+## 📚 Week 2 – Object-Oriented Programming (OOP)
 
-### 3. Bank Management Console App
-A menu-driven banking application with features:
-- Deposit money
-- Withdraw money
-- Check balance
-- Exit system
+### Topics Covered
+- Classes and Objects
+- Constructors
+- Methods
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
 
-## 🛠️ Technologies Used
+### Programs
+- Student Management System
+- Employee Management System
+- Library Management System
 
+---
+
+## 🛠️ Tools Used
 - Java
-- VS Code
 - JDK
+- Visual Studio Code (VS Code)
+
+---
 
 ## ▶️ How to Run
 
-1. Install Java JDK.
-2. Open the project folder in VS Code.
-3. Compile the program:
+Compile:
+
+```bash
+javac FileName.java
+```
+
+Run:
+
+```bash
+java FileName
+```
+
+---
+
+## 📂 Repository Structure
+
+```
+Java-Fundamentals
+│── README.md
+│── Java-Week1
+│   ├── Calculator.java
+│   ├── GradeEvaluation.java
+│   └── BankManagement.java
+│
+└── Java-Week2
+    ├── Student.java
+    ├── Employee.java
+    └── LibraryManagement.java
+```
+
+---
+
+## 👩‍💻 Author
+
+**Sonu Parashuram Balagavi**
+
+⭐ This repository will be updated as I continue learning Java.
