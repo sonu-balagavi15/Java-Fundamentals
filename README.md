@@ -1,30 +1,32 @@
 # Java Fundamentals ☕
 
-This repository contains my Java programming practice, assignments, and mini projects completed during my Java learning journey.
+This repository contains my Java programming practice, assignments, and mini projects completed during my Java learning journey. The programs are organized week-wise, covering Java fundamentals, Object-Oriented Programming (OOP), Data Structures, Collections Framework, and File Handling.
 
-## 📚 Week 1 – Java Fundamentals
+---
 
-### Topics Covered
+# 📚 Week 1 – Java Fundamentals
+
+## Topics Covered
 - Introduction to Java
 - Java Syntax
-- Variables and Data Types
+- Data Types and Variables
 - Operators
-- Conditional Statements
-- Loops
+- Conditional Statements (if-else)
+- Loops (for, while)
 - Arrays
 - String Handling
 - User Input using Scanner
 
-### Programs
-- Basic Calculator
+## Programs
+- Basic Calculator Program
 - Grade Evaluation Program
 - Bank Management Console App
 
 ---
 
-## 📚 Week 2 – Object-Oriented Programming (OOP)
+# 📚 Week 2 – Object-Oriented Programming (OOP)
 
-### Topics Covered
+## Topics Covered
 - Classes and Objects
 - Constructors
 - Methods
@@ -34,29 +36,53 @@ This repository contains my Java programming practice, assignments, and mini pro
 - Abstraction
 - Interfaces
 
-### Programs
+## Programs
 - Student Management System
 - Employee Management System
 - Library Management System
 
 ---
 
-## 🛠️ Tools Used
-- Java
-- JDK
-- Visual Studio Code (VS Code)
+# 📚 Week 3 – Data Structures & File Handling
+
+## Topics Covered
+- Java Collections Framework
+- ArrayList
+- HashMap
+- HashSet
+- Sorting and Searching
+- File Handling
+  - FileReader
+  - FileWriter
+  - BufferedReader
+  - BufferedWriter
+
+## Programs
+- Student Marks Record
+- File Word Count
+- Employee Management System with File Storage
 
 ---
 
-## ▶️ How to Run
+# 🛠️ Technologies Used
 
-Compile:
+- Java
+- JDK
+- Visual Studio Code (VS Code)
+- Java Collections Framework
+- File Handling APIs
+
+---
+
+# ▶️ How to Run
+
+### Compile a Java Program
 
 ```bash
 javac FileName.java
 ```
 
-Run:
+### Run the Program
 
 ```bash
 java FileName
@@ -64,7 +90,7 @@ java FileName
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```
 Java-Fundamentals
@@ -75,16 +101,44 @@ Java-Fundamentals
 │   ├── GradeEvaluation.java
 │   └── BankManagement.java
 │
-└── Java-Week2
-    ├── Student.java
-    ├── Employee.java
-    └── LibraryManagement.java
+├── Java-Week2
+│   ├── Student.java
+│   ├── Employee.java
+│   └── LibraryManagement.java
+│
+└── Java-Week3
+    ├── StudentMarksRecord.java
+    ├── FileWordCount.java
+    ├── EmployeeManagement.java
+    └── input.txt
 ```
 
 ---
 
-## 👩‍💻 Author
+# 🎯 Learning Outcomes
+
+Through these weekly assignments and mini projects, I learned:
+
+- Java programming fundamentals
+- Problem-solving using Java
+- Conditional statements and loops
+- Working with arrays and strings
+- User input handling with Scanner
+- Object-Oriented Programming concepts
+- Classes, Objects, and Constructors
+- Encapsulation, Inheritance, and Polymorphism
+- Java Collections Framework
+- File reading and writing
+- Building console-based Java applications
+
+---
+
+# 👩‍💻 Author
 
 **Sonu Parashuram Balagavi**
 
-⭐ This repository will be updated with more Java programs and projects as I continue learning Java.
+Computer Science & Engineering Student
+
+---
+
+⭐ This repository will continue to be updated with more Java assignments, projects, and advanced concepts as I progress in my Java learning journey.
