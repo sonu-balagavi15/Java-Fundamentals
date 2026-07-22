@@ -69,7 +69,8 @@ java FileName
 ```
 Java-Fundamentals
 │── README.md
-│── Java-Week1
+│
+├── Java-Week1
 │   ├── Calculator.java
 │   ├── GradeEvaluation.java
 │   └── BankManagement.java
@@ -86,4 +87,4 @@ Java-Fundamentals
 
 **Sonu Parashuram Balagavi**
 
-⭐ This repository will be updated as I continue learning Java.
+⭐ This repository will be updated with more Java programs and projects as I continue learning Java.
